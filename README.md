@@ -1,2 +1,2 @@
 # JavaRush
-ОБучение на JavaRush
+Обучение на JavaRush
